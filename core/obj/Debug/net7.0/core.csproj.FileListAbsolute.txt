@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\netcore\Prueba\core\bin\Debug\net7.0\core.deps.json
+C:\Users\DELL\Desktop\netcore\Prueba\core\bin\Debug\net7.0\core.dll
+C:\Users\DELL\Desktop\netcore\Prueba\core\bin\Debug\net7.0\core.pdb
+C:\Users\DELL\Desktop\netcore\Prueba\core\obj\Debug\net7.0\core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\netcore\Prueba\core\obj\Debug\net7.0\core.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\netcore\Prueba\core\obj\Debug\net7.0\core.AssemblyInfo.cs
+C:\Users\DELL\Desktop\netcore\Prueba\core\obj\Debug\net7.0\core.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\netcore\Prueba\core\obj\Debug\net7.0\core.dll
+C:\Users\DELL\Desktop\netcore\Prueba\core\obj\Debug\net7.0\refint\core.dll
+C:\Users\DELL\Desktop\netcore\Prueba\core\obj\Debug\net7.0\core.pdb
+C:\Users\DELL\Desktop\netcore\Prueba\core\obj\Debug\net7.0\ref\core.dll
