@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using core.Interfaces;
 using Infrastructure.Data;
+using Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
 
 namespace Infrastructure.UnitOfWork
@@ -11,6 +12,11 @@ namespace Infrastructure.UnitOfWork
     public class UnitOfWork : IUnitOfWork, IDisposable
     {
         private readonly PruebaContext _context;
+        private AccionRepository _acciones;
+        private CitaRepository _citas;
+        private EntregaRepository _entregas;
+        private EstadoSolicitudRepository _estadosSolicitudes;
+        private IntervaloHorarioRepository _intervalosHorarios;
 
         public UnitOfWork(PruebaContext context)
         {
@@ -21,7 +27,11 @@ namespace Infrastructure.UnitOfWork
         {
             get
             {
-                throw new NotImplementedException();
+                if (_acciones == null)
+                {
+                    _acciones = new AccionRepository(_context);
+                }
+                return _acciones;
             }
         }
 
@@ -29,7 +39,11 @@ namespace Infrastructure.UnitOfWork
         {
             get
             {
-                throw new NotImplementedException();
+                if (_citas == null)
+                {
+                    _citas = new CitaRepository(_context);
+                }
+                return _citas;
             }
         }
 
@@ -37,7 +51,11 @@ namespace Infrastructure.UnitOfWork
         {
             get
             {
-                throw new NotImplementedException();
+                if (_entregas == null)
+                {
+                    _entregas = new EntregaRepository(_context);
+                }
+                return _entregas;
             }
         }
 
@@ -45,7 +63,11 @@ namespace Infrastructure.UnitOfWork
         {
             get
             {
-                throw new NotImplementedException();
+                if (_estadosSolicitudes == null)
+                {
+                    _estadosSolicitudes = new EstadoSolicitudRepository(_context);
+                }
+                return _estadosSolicitudes;
             }
         }
 
@@ -53,7 +75,11 @@ namespace Infrastructure.UnitOfWork
         {
             get
             {
-                throw new NotImplementedException();
+                if (_intervalosHorarios == null)
+                {
+                    _intervalosHorarios = new IntervaloHorarioRepository(_context);
+                }
+                return _intervalosHorarios;
             }
         }
 

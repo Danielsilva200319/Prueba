@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jQefdn+zlX4fVM7ygerj6sFL1OMR1q2gcQT/d2+Xna+GiTR4/5XP+vyAA3dp2+xlcKCQK0Oglkx74eXeGF9uIQ==",
+  "dgSpecHash": "igvIk9p2zkYqJMHYdpBdBOgAzvmEI0oTNoycHdy21HidDpT53lZR8y7u6oo8NZgz97J3P5Ujr46iUMuOcs1Cew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Desktop\\netcore\\Prueba\\core\\core.csproj",
+  "projectFilePath": "/workspaces/Prueba/core/core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
