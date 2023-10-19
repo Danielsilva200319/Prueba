@@ -13,6 +13,10 @@ namespace API.Profiles
         protected MappingProfiles()
         {
             CreateMap<Accion, AccionDto>().ReverseMap();
+            CreateMap<Cita, CitaDto>().ReverseMap();
+            CreateMap<Entrega, EntregaDto>().ReverseMap();
+            CreateMap<EstadoSolicitud, EstadoSolicitudDto>().ReverseMap();
+            CreateMap<IntervaloHorario, IntervaloHorarioDto>().ReverseMap();
         }
     }
 }
