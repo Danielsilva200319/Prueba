@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Desktop\\netcore\\Prueba\\API\\API.csproj": {}
+    "C:\\Users\\APM02-63\\Desktop\\netcore\\Prueba\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Desktop\\netcore\\Prueba\\API\\API.csproj": {
+    "C:\\Users\\APM02-63\\Desktop\\netcore\\Prueba\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\netcore\\Prueba\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\APM02-63\\Desktop\\netcore\\Prueba\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\netcore\\Prueba\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\netcore\\Prueba\\API\\obj\\",
+        "projectPath": "C:\\Users\\APM02-63\\Desktop\\netcore\\Prueba\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\APM02-63\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\APM02-63\\Desktop\\netcore\\Prueba\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\APM02-63\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\DELL\\Desktop\\netcore\\Prueba\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\DELL\\Desktop\\netcore\\Prueba\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\APM02-63\\Desktop\\netcore\\Prueba\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\APM02-63\\Desktop\\netcore\\Prueba\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -108,21 +108,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\DELL\\Desktop\\netcore\\Prueba\\core\\core.csproj": {
+    "C:\\Users\\APM02-63\\Desktop\\netcore\\Prueba\\core\\core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\netcore\\Prueba\\core\\core.csproj",
+        "projectUniqueName": "C:\\Users\\APM02-63\\Desktop\\netcore\\Prueba\\core\\core.csproj",
         "projectName": "core",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\netcore\\Prueba\\core\\core.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\netcore\\Prueba\\core\\obj\\",
+        "projectPath": "C:\\Users\\APM02-63\\Desktop\\netcore\\Prueba\\core\\core.csproj",
+        "packagesPath": "C:\\Users\\APM02-63\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\APM02-63\\Desktop\\netcore\\Prueba\\core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\APM02-63\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -161,21 +161,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\DELL\\Desktop\\netcore\\Prueba\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\APM02-63\\Desktop\\netcore\\Prueba\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\netcore\\Prueba\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\APM02-63\\Desktop\\netcore\\Prueba\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\netcore\\Prueba\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\netcore\\Prueba\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\APM02-63\\Desktop\\netcore\\Prueba\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\APM02-63\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\APM02-63\\Desktop\\netcore\\Prueba\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\APM02-63\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -187,8 +187,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\DELL\\Desktop\\netcore\\Prueba\\core\\core.csproj": {
-                "projectPath": "C:\\Users\\DELL\\Desktop\\netcore\\Prueba\\core\\core.csproj"
+              "C:\\Users\\APM02-63\\Desktop\\netcore\\Prueba\\core\\core.csproj": {
+                "projectPath": "C:\\Users\\APM02-63\\Desktop\\netcore\\Prueba\\core\\core.csproj"
               }
             }
           }
@@ -232,7 +232,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
